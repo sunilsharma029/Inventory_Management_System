@@ -108,6 +108,14 @@ python background_service.py
 
 Open the Power BI file from the `powerbi` folder to explore the interactive Inventory Management Dashboard.
 
+## Contact Me
+
+Feel free to reach out if you have any questions, suggestions, or just want to connect!
+
+- **Email:** [sunilsharma.work@outlook.com](mailto:sunilsharma.work@outlook.com)
+- **Phone:** +91 9352628954
+- **LinkedIn:** [linkedin.com/in/sunil sharma](https://www.linkedin.com/in/sunil-sharma-31003143a/)
+
 ## Author
 
 **Sunil Sharma**
@@ -115,3 +123,5 @@ Open the Power BI file from the `powerbi` folder to explore the interactive Inve
 MIS Executive | Data Analyst
 
 Jaipur, Rajasthan, India
+
+I look forward to hearing from you!
