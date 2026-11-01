@@ -8,7 +8,7 @@ This project helps manage inventory products, track stock movements, monitor sto
 
 ## Dashboard Preview
 
-![Inventory Management Dashboard](dashboard.png)
+![Inventory Management Dashboard]((screenshots/dashboard.png)
 
 ## Key Features
 
