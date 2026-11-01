@@ -10,11 +10,7 @@ This project helps manage inventory products, track stock movements, monitor sto
 
 ## Dashboard Preview
 
-## 📷 Dashboard Preview
-
-[![Inventory Management Dashboard](screenshots/dashboard.png)](powerbi/INVENTORY%20MANAGEMENT%20DASHBOARD.pbix)
-![Inventory Dashboard](screenshots/dashboard.png)
-![Inventory Management Dashboard]((screenshots/dashboard.png)
+[![Inventory Management Dashboard](screenshots/dashboard.png)]
 
 ## Key Features
 
