@@ -114,7 +114,7 @@ Open the Power BI file from the `powerbi` folder to explore the interactive Inve
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect!
 
-- **Email:** [sunilsharma.work@outlook.com](mailto:sunilsharma.work@outlook.com)
+- **Email:** [sunilsharma.work@outlook.com](mailto:sunilsharma.analytics@gmail.com)
 - **Phone:** +91 9352628954
 - **LinkedIn:** [linkedin.com/in/sunil sharma](https://www.linkedin.com/in/sunil-sharma-31003143a/)
 
